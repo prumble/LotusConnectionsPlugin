@@ -59,6 +59,21 @@
       <url>http://repo.jenkins-ci.org/public/</url>
     </pluginRepository>
   </pluginRepositories>
+<scm>
+    <connection>scm:git:ssh://github.com/jenkinsci/LotusConnectionsPlugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/LotusConnectionsPlugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/LotusConnectionsPlugin</url>
+  </scm>
+
+<url>http://wiki.jenkins-ci.org/display/JENKINS/LotusConnectionsPlugin</url>
+
+<developers>
+    <developer>
+      <id>philrumble</id>
+      <name>Phil Rumble</name>
+      <email>prumble@au1.ibm.com</email>
+    </developer>
+  </developers>
 
   <scm>
     <connection>scm:git:git://github.com/jenkinsci/lotus-connections-plugin.git</connection>
