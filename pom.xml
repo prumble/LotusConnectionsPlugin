@@ -75,10 +75,5 @@
     </developer>
   </developers>
 
-  <scm>
-    <connection>scm:git:git://github.com/jenkinsci/lotus-connections-plugin.git</connection>
-    <developerConnection>scm:git:git://git@github.com/jenkinsci/lotus-connections-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/lotus-connections-plugin</url>
-  </scm>
 
 </project>
