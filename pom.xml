@@ -60,8 +60,8 @@
     </pluginRepository>
   </pluginRepositories>
 <scm>
-    <connection>scm:git:ssh://github.com/jenkinsci/LotusConnectionsPlugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/LotusConnectionsPlugin.git</developerConnection>
+    <connection>scm:git:ssh://github.com/jenkinsci/lotus-connections-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/lotus-connections-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/LotusConnectionsPlugin</url>
   </scm>
 
